@@ -54,7 +54,7 @@ if(!isset($_SESSION['UserData']['Username'])){
 			<tr>
 				<td>
 					<div id='Video' style="text-align:center">
-						<iframe src="http://ENTER_YOUR_IP_HERE:9000/javascript_simple.html" alt="Web site is not avaialable" frameborder="0" align="center" width="840" height="540" align="center" scrolling="no"></iframe>
+						<iframe src="http://ENTER_YOUR_IP_HERE:8081/index.html" alt="Web site is not avaialable" frameborder="0" align="center" width="840" height="540" align="center" scrolling="no"></iframe>
 					</div>
 				</td>
 				<td bgcolor="#B6B6B6">
